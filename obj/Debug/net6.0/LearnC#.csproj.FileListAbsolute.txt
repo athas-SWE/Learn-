@@ -1,0 +1,14 @@
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.exe
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.deps.json
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.runtimeconfig.json
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.dll
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.pdb
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.AssemblyInfoInputs.cache
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.AssemblyInfo.cs
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.csproj.CoreCompileInputs.cache
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.dll
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\refint\LearnC#.dll
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.pdb
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.genruntimeconfig.cache
+C:\Users\Athas AR\Desktop\ss\LearnC#\LearnC#\obj\Debug\net6.0\ref\LearnC#.dll
